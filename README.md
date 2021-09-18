@@ -1,11 +1,11 @@
 
  # Jessica A. Bolin  
-#### PhD Candidate, USC/CSIRO
+### PhD Candidate, USC/CSIRO
 Forecasting swordfish quality in a climate-change hotspot: a tool for dynamic industry adaptation
-#### Chapter Scientist, IPCC AR6
+### Chapter Scientist, IPCC AR6
 WGII Chapter 3: Oceans and Coastal Ecosystems and their Services
 
-#### Contact
+### Contact
 
 ✉️ jessica.bolin@research.usc.edu.au / jessica.anne.bolin@gmail.com
 
