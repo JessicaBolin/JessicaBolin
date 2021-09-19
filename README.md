@@ -1,7 +1,7 @@
 
  # Jessica A. Bolin  
 
-### About (current positions)
+### About (current)
 
 - **PhD Candidate, USC/CSIRO:** _Forecasting swordfish quality in a climate-change hotspot: a tool for dynamic industry adaptation_
 - **Chapter Scientist/Contributing Author, IPCC AR6:** _WGII Chapter 3: Oceans and Coastal Ecosystems and their Services_
