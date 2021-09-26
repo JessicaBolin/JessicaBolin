@@ -9,7 +9,7 @@
 
 ### Contact
 
-✉️ jessica.bolin@research.usc.edu.au / jessica.anne.bolin@gmail.com
+✉️ jessica.bolin(at)research.usc.edu.au / jessica.anne.bolin(at)gmail.com
 
 📍 Scales Lab, University of the Sunshine Coast, Sippy Downs, QLD Australia
 
