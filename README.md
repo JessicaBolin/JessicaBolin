@@ -20,11 +20,10 @@
 ### Routinely use:
 ![R](https://img.shields.io/badge/R-000000?style=for-the-badge&logo=R&logoColor=white)
 ![git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![bash](https://img.shields.io/badge/zsh-000000?style=for-the-badge&logo=gnubash&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe_Illustrator-000000?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Illustrator-000000?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)
 ![filezilla](https://img.shields.io/badge/Filezilla-000000?style=for-the-badge&logo=filezilla&logoColor=white)
 ![emacs](https://img.shields.io/badge/emacs-000000?style=for-the-badge&logo=gnuemacs&logoColor=white)
 ![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
