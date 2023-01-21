@@ -7,16 +7,6 @@
 - **Chapter Scientist/Contributing Author, IPCC AR6:** _WGII Chapter 3: Oceans and Coastal Ecosystems and their Services_
 - **Tutor, UniSC:** _Statistics with Teeth: Understanding Ecological Data (ANM203)_
 
-### Routinely use:
-![R](https://img.shields.io/badge/R-000000?style=for-the-badge&logo=R&logoColor=white)
-![git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![bash](https://img.shields.io/badge/zsh-000000?style=for-the-badge&logo=gnubash&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Illustrator-000000?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)
-![filezilla](https://img.shields.io/badge/Filezilla-000000?style=for-the-badge&logo=filezilla&logoColor=white)
-![emacs](https://img.shields.io/badge/emacs-000000?style=for-the-badge&logo=gnuemacs&logoColor=white)
-![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
 ### Contact:
 
 ✉️ jessica.bolin(at)research.usc.edu.au / jessica.anne.bolin(at)gmail.com
