@@ -9,7 +9,7 @@
 
 ### Contact:
 
-✉️ jessica.bolin(at)research.usc.edu.au / jessica.anne.bolin(at)gmail.com
+ ✉️ jessica.anne.bolin(at)gmail.com
 
 📍 Scales Lab, University of the Sunshine Coast, QLD Australia
 
@@ -19,7 +19,7 @@
 
 ### Favourite Hikes:
 
-Main Range Track + Mount Kosciuszko, NSW (24km), Bare Rock + Mount Cordeaux Track, QLD (13.2km), Yul-yan-man track, QLD (12km), Honeysuckle Creek to Legoland, ACT (9.8km), Hartz Peak, TAS (7.7km)
+Robert's Point Track, New Zealand (11.7 km), Walls of Jerusalem Multi-Day Hike, TAS (28.3 km), Main Range Track + Mount Kosciuszko, NSW (24km), Bare Rock + Mount Cordeaux Track, QLD (13.2km), Yul-yan-man track, QLD (12km), Honeysuckle Creek to Legoland, ACT (9.8km), Hartz Peak, TAS (7.7km)
 
 ![](https://hit.yhype.me/github/profile?user_id=37993300)
 
