@@ -1,17 +1,13 @@
 
  # Jessica A. Bolin  
 
-### About:
-
-- **PhD Candidate, UniSC/CSIRO:** _Forecasting swordfish quality in a climate-change hotspot: a tool for dynamic industry adaptation_
-- **Chapter Scientist/Contributing Author, IPCC AR6:** _WGII Chapter 3: Oceans and Coastal Ecosystems and their Services_
-- **Tutor, UniSC:** _Statistics with Teeth: Understanding Ecological Data (ANM203)_
+Postdoc at UC Davis in quantitative fisheries science and climate change. 
 
 ### Contact:
 
- ✉️ jessica.anne.bolin(at)gmail.com
+ ✉️ jabbolin(at)ucdavis(dot)edu // jessica.anne.bolin(at)gmail.com
 
-📍 Scales Lab, University of the Sunshine Coast, QLD Australia
+📍 Provost Lab, University of California, Davis
 
 🌐 https://jessicabolin.github.io
 
