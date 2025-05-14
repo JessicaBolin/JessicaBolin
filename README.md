@@ -15,7 +15,10 @@ Postdoc at UC Davis in quantitative fisheries science and climate change.
 
 ### Favourite Hikes:
 
-Lake Aloha, Desolation Wilderness CA (19.7 km), Twin Lakes, Desolation Wilderness CA (11.2 km), Tomales Point, Point Reyes National Seashore CA (15.1 km), Robert's Point Track, New Zealand (11.7 km), Walls of Jerusalem Multi-Day Hike, TAS (28.3 km), Main Range Track + Mount Kosciuszko, NSW (24km), Bare Rock + Mount Cordeaux Track, QLD (13.2km), Yul-yan-man track, QLD (12km), Honeysuckle Creek to Legoland, ACT (9.8km), Hartz Peak, TAS (7.7km)
+#### California
+Nevada Falls via JMT, Yosemite NP CA (13.9 km), Burnside Lake, Grover Hot Springs State Park CA (18.8 km), Lake Aloha, Desolation Wilderness CA (19.7 km), Twin Lakes, Desolation Wilderness CA (11.2 km), Tomales Point, Point Reyes National Seashore CA (15.1 km), 
+#### Australia and NZ
+Robert's Point Track, New Zealand (11.7 km), Walls of Jerusalem Multi-Day Hike, TAS (28.3 km), Main Range Track + Mount Kosciuszko, NSW (24km), Bare Rock + Mount Cordeaux Track, QLD (13.2km), Yul-yan-man track, QLD (12km), Honeysuckle Creek to Legoland, ACT (9.8km), Hartz Peak, TAS (7.7km)
 
 ![](https://hit.yhype.me/github/profile?user_id=37993300)
 
